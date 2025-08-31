@@ -118,8 +118,8 @@ class Messages:
 
 Hello {user_mention}! I'm your secure file sharing assistant!
 
-📢 Join @Thealphabotz for updates!
-👨‍💻 Contact @adarsh2626 for support
+📢 Join @Animes_Gun for updates!
+👨‍💻 Contact @LightYagamii_89 for support
 
 Use /help to see available commands!
 """
